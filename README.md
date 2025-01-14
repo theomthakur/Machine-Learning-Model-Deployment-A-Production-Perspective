@@ -25,7 +25,8 @@ The solution lies in adopting MLOps practices that bridge the gap between ML dev
 As ML systems continue to evolve, the need for sophisticated deployment architectures grows. Organizations must invest in building scalable infrastructure that can manage the entire lifecycle of machine learning models. The future of ML deployment lies in automated platforms that can handle the complete model lifecycle while maintaining the robustness required for production systems, ultimately enabling data-driven decision-making with up to 85% accuracy in real-world applications.
 
 ---
-*Visit my portfolio: https://www.theomthakur.github.io/portfolio*
+
+*[Visit my portfolio](https://www.theomthakur.github.io/portfolio)*
 
 *This document is maintained by Om Thakur and was last updated on January 14, 2025.*
 
