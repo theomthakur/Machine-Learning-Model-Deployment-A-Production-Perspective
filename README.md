@@ -26,7 +26,7 @@ As ML systems continue to evolve, the need for sophisticated deployment architec
 
 ---
 
-*[Visit my portfolio](https://www.theomthakur.github.io/portfolio)*
+*[Visit my portfolio](https://theomthakur.github.io/portfolio)*
 
 *This document is maintained by Om Thakur and was last updated on January 14, 2025.*
 
